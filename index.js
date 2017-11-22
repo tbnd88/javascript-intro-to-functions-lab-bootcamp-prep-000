@@ -23,7 +23,7 @@ function sayHiToGrandma(string)
   var upperCase = "HELLO"
   var lowerCase = "hello"
   var mixedCase = "I love you, Grandma."
-  console.log(string)
+
   if (string === upperCase)
   {
     return "YES INDEED!"
